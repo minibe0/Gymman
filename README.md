@@ -3,28 +3,28 @@ Project Name: GymER
 Introduction
 A platform where trainers can share their expertise, experiences, and knowledge about various fitness and health topics, creating a community-driven hub of information that enables users to find personalized workout and health advice.
 
-##Period##
+Period
 ✓ 2023.08.24 ~ 2023.08.30 | [30 hrs]
 
-##Key Features
+Key Features
 ✓ Training
 ✓ Nutrition Guidance
 ✓ Health and Wellness
 
-##Technology Stack
-###Firebase
+Technology Stack
+Firebase
 Firebase Authentication
 Firebase Database
 
-###Android Development
+Android Development
 Android Jetpack Compose
 Google Sign-in Client
 Fused Location Provider
 
-###Programming Language
+Programming Language
 Kotlin
 
-###UI Components
+UI Components
 Calendar View
 Dialog
 
