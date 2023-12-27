@@ -13,3 +13,6 @@ Key Features
 ✓ Training
 ✓ Nutrition Guidance
 ✓ Health and Wellness
+
+
+![image](https://github.com/minibe0/Gymman/assets/61962925/6bf70f74-d8e0-4099-8814-d077bb7d4684)
